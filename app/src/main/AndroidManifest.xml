@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="br.rodricxc.geodespertador.app.HistoricoActivity"
+            android:label="@string/title_activity_historico" >
+        </activity>
     </application>
 
 </manifest>
